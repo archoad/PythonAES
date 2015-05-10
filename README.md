@@ -1,4 +1,5 @@
 PythonAES
 =========
 
-Implementation of AES ciphering algorithm in Python
+Implementation of miniAES and AES ciphering algorithm in Python
+
